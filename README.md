@@ -41,7 +41,6 @@ The developer should create an application that allows users to reserve one of t
 - The frontend should be clear and easy to use, with proper form validation.
 - The backend should correctly handle reservations and store them in MongoDB.
 - If consumable slots are implemented, ensure each slot can only be reserved once.
-- The developer must upload the project to a repository where they will be added as a contributor.
 - The developer must follow **Conventional Commits** for commit messages.
 
 ## Estimated Time:
